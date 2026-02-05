@@ -67,6 +67,7 @@ The strategy sacrifices some upside participation in exchange for **significantl
 ---
 ## Project Structure
 
+```text
 liquidity-crowding-portfolio/
 ├── src/
 │   ├── data.py        # Data loading utilities
@@ -76,5 +77,6 @@ liquidity-crowding-portfolio/
 ├── results/           # Backtest outputs (returns, curves, drawdowns)
 ├── report.md          # Extended analysis notes
 └── README.md
+
 
 
