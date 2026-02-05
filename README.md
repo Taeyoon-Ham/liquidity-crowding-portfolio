@@ -152,17 +152,17 @@ liquidity-crowding-portfolio/
 ---
 
 ## 프로젝트 구조
+
 liquidity-crowding-portfolio/
 ├── src/
-│ ├── data.py # 데이터 로딩 유틸리티
-│ ├── signals.py # 모멘텀, 변동성, 크라우딩, 유동성 시그널
-│ ├── portfolio.py # 비중 구성 및 리스크 멀티플라이어
-│ └── backtest.py # 엔드-투-엔드 백테스트 실행
-├── results/ # 백테스트 출력 (수익률, 커브, 낙폭)
-├── report.md # 확장 분석 노트
+│   ├── data.py        # Data loading utilities
+│   ├── signals.py     # Momentum, volatility, crowding, liquidity signals
+│   ├── portfolio.py  # Weight construction and risk multipliers
+│   └── backtest.py   # End-to-end backtest execution
+├── results/           # Backtest outputs (returns, curves, drawdowns)
+├── report.md          # Extended analysis notes
 └── README.md
 
----
 
 ## 프로젝트 의도
 
