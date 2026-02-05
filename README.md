@@ -81,14 +81,11 @@ liquidity-crowding-portfolio/
 
 
 
-
-
-
-
 ---
+
 
 README (한국어)
----
+
 
 # 유동성 & 크라우딩 기반 포트폴리오 전략  
 (Liquidity & Crowding Portfolio Strategy)
