@@ -80,8 +80,7 @@ liquidity-crowding-portfolio/
 
 ---
 
-###
-```md
+md
 
 # 유동성 & 크라우딩 기반 포트폴리오 전략
 
