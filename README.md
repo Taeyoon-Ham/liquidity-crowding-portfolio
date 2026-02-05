@@ -65,6 +65,7 @@ The primary goal is **drawdown control and robustness across regimes**, especial
 The strategy sacrifices some upside participation in exchange for **significantly improved drawdown and risk-adjusted performance**.
 
 ---
+```md
 
 ## Project Structure
 
@@ -78,7 +79,6 @@ liquidity-crowding-portfolio/
 ├── results/           # Backtest outputs (returns, curves, drawdowns)
 ├── report.md          # Extended analysis notes
 └── README.md
-
 
 
 ---
