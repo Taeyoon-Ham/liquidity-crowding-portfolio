@@ -153,6 +153,7 @@ liquidity-crowding-portfolio/
 
 ## 프로젝트 구조
 
+```
 liquidity-crowding-portfolio/
 ├── src/
 │   ├── data.py        # Data loading utilities
@@ -163,7 +164,7 @@ liquidity-crowding-portfolio/
 ├── report.md          # Extended analysis notes
 └── README.md
 
-
+```
 ## 프로젝트 의도
 
 실제 금융시장에서 전략이 실패하는 주요 원인은  
