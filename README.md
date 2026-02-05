@@ -82,7 +82,7 @@ liquidity-crowding-portfolio/
 
 ---
 
-# ✅ README (한국어 버전)
+# README (한국어 버전)
 
 ```markdown
 # Liquidity & Crowding 포트폴리오 전략
