@@ -77,10 +77,7 @@ liquidity-crowding-portfolio/
 ├── results/           # Backtest outputs (returns, curves, drawdowns)
 ├── report.md          # Extended analysis notes
 └── README.md
-
----
-
-md
+```
 
 # 유동성 & 크라우딩 기반 포트폴리오 전략
 
