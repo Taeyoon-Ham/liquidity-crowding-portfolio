@@ -67,15 +67,18 @@ The strategy sacrifices some upside participation in exchange for **significantl
 ---
 
 ## Project Structure
+
+```text
 liquidity-crowding-portfolio/
 ├── src/
-│ ├── data.py # Data loading utilities
-│ ├── signals.py # Momentum, volatility, crowding, liquidity signals
-│ ├── portfolio.py # Weight construction and risk multipliers
-│ └── backtest.py # End-to-end backtest execution
-├── results/ # Backtest outputs (returns, curves, drawdowns)
-├── report.md # Extended analysis notes
+│   ├── data.py        # Data loading utilities
+│   ├── signals.py     # Momentum, volatility, crowding, liquidity signals
+│   ├── portfolio.py  # Weight construction and risk multipliers
+│   └── backtest.py   # End-to-end backtest execution
+├── results/           # Backtest outputs (returns, curves, drawdowns)
+├── report.md          # Extended analysis notes
 └── README.md
+
 
 
 
@@ -161,7 +164,7 @@ README (한국어)
 ---
 
 ## 프로젝트 구조
-
+```text
 liquidity-crowding-portfolio/
 ├── src/
 │   ├── data.py        # 데이터 로딩 유틸리티
